@@ -439,3 +439,10 @@ jp.cf.zhetengsha.eu.org:2053#JP
 162.159.143.221:443#CF
 104.26.4.90:443#CF
 104.26.5.49:443#CF
+Malaysia.com#CF官方
+japan.com#CF官方
+www.whoer.net#CF官方
+singapore.com#CF官方
+ip.sb#CF官方
+time.is#CF官方
+russia.com#CF官方
