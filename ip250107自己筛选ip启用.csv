@@ -1,5 +1,5 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,速度(MB/s)
-129.154.207.203	443	TRUE	ICN	Asia Pacific	Seoul	72 ms	8.57
+129.154.207.203，443，TRUE，ICN，Asia，Pacific，Seoul，72，8.57
 129.154.207.203	443	TRUE	ICN	Asia Pacific	Seoul	72 ms	8.57
 158.180.84.60	443	TRUE	ICN♥	Asia Pacific	Seoul	122 ms	8.57
 8.219.95.233	443	TRUE	SIN♥	Asia Pacific	Singapore	108 ms	8.57
