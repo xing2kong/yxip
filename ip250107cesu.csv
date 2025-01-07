@@ -78,9 +78,3 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 141.144.246.71,443,TRUE,FRA?,Europe,Frankfurt,291 ms,83826 kB/s
 152.70.26.153,443,TRUE,FRA?,Europe,Frankfurt,327 ms,83805 kB/s
 141.147.46.129,443,TRUE,FRA?,Europe,Frankfurt,218 ms,83788 kB/s
-144.24.73.232,443,TRUE,ICN,Asia Pacific,Seoul,144 ms,3640 kB/s
-8.219.223.95,443,TRUE,SIN,Asia Pacific,Singapore,114 ms,3631 kB/s
-140.238.23.148,443,TRUE,ICN,Asia Pacific,Seoul,89 ms,3620 kB/s
-8.219.72.38,443,TRUE,SIN,Asia Pacific,Singapore,99 ms,3553 kB/s
-132.226.171.31,443,TRUE,SIN,Asia Pacific,Singapore,188 ms,3493 kB/s
-8.222.242.115,443,TRUE,SIN,Asia Pacific,Singapore,243 ms,3449 kB/s
