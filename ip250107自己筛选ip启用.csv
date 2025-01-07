@@ -78,6 +78,6 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,速度(MB/s)
 8.222.234.139	443	TRUE	SIN	Asia Pacific	Singapore	226 ms	81.57
 141.144.246.71	443	TRUE	FRA	Europe	Frankfurt	291 ms	82.57
 152.70.26.153	443	TRUE	FRA	Europe	Frankfurt	327 ms	83.57
-141.147.46.129	443	TRUE	FRA	Europe	Frankfurt	218 ms	84.57
-144.24.73.232	443	TRUE	ICN	Asia Pacific	Seoul	144 ms	85.57
-158.180.84.60,443,TRUE,ICN,Asia,Pacific,Seoul,122 ms,8.57
+141.147.46.129	443	TRUE	FRA	Europe	Frankfurt	218,	84.57
+144.24.73.232	443	TRUE	ICN	Asia Pacific	Seoul	144,	85.57
+158.180.84.60,443,TRUE,ICN,Asia,Pacific,Seoul,122,8.57
