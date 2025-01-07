@@ -1,12 +1,12 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,速度(MB/s)
 129.154.207.203	443	TRUE	ICN	Asia Pacific	Seoul	72 ms	8.57
 129.154.207.203	443	TRUE	ICN	Asia Pacific	Seoul	72 ms	8.57
-158.180.84.60	443	TRUE	ICN❤	Asia Pacific	Seoul	122 ms	8.57
-8.219.95.233	443	TRUE	SIN❤	Asia Pacific	Singapore	108 ms	8.57
-8.219.236.171	443	TRUE	SIN❤	Asia Pacific	Singapore	146 ms	9.57
-8.219.51.229	443	TRUE	SIN❤	Asia Pacific	Singapore	123 ms	10.57
-8.219.209.26	443	TRUE	SIN	Asia Pacific	Singapore	142 ms	11.57
-8.210.171.28	443	TRUE	HKG■	Asia Pacific	Hong Kong	81 ms	12.57
+158.180.84.60	443	TRUE	ICN♥	Asia Pacific	Seoul	122 ms	8.57
+8.219.95.233	443	TRUE	SIN♥	Asia Pacific	Singapore	108 ms	8.57
+8.219.236.171	443	TRUE	SIN♥	Asia Pacific	Singapore	146 ms	9.57
+8.219.51.229	443	TRUE	SIN♥	Asia Pacific	Singapore	123 ms	10.57
+8.219.209.26	443	TRUE	SIN♥	Asia Pacific	Singapore	142 ms	11.57
+8.210.171.28	443	TRUE	HKG♥	Asia Pacific	Hong Kong	81 ms	12.57
 146.56.114.201	443	TRUE	ICN■	Asia Pacific	Seoul	107 ms	13.57
 158.180.92.166	443	TRUE	ICN■	Asia Pacific	Seoul	123 ms	14.57
 8.219.136.176	443	TRUE	SIN■▲	Asia Pacific	Singapore	126 ms	15.57
