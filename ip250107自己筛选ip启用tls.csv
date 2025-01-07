@@ -1,0 +1,21 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+140.238.9.27,8443,TRUE,ICN,Asia Pacific,Seoul,68 ms,10240 kB/s
+141.145.205.115,8443,TRUE,CDG,Europe,Paris,210 ms,4098 kB/s
+141.147.16.152,8443,TRUE,FRA,Europe,Frankfurt,294 ms,3977 kB/s
+129.151.198.3,8443,TRUE,ARN,Europe,Stockholm,228 ms,3234 kB/s
+204.216.105.106,8443,TRUE,YYZ,North America,Toronto,274 ms,2954 kB/s
+150.230.20.156,8443,TRUE,AMS,Europe,Amsterdam,219 ms,2129 kB/s
+132.145.54.84,8443,TRUE,LHR,Europe,London,211 ms,1975 kB/s
+143.47.243.144,8443,TRUE,LHR,Europe,London,217 ms,1860 kB/s
+129.151.225.228,8443,TRUE,MRS,Europe,Marseille,246 ms,1665 kB/s
+152.70.155.147,8443,TRUE,LAX,North America,Los Angeles,247 ms,960 kB/s
+158.101.199.249,8443,TRUE,AMS,Europe,Amsterdam,205 ms,637 kB/s
+132.145.53.55,8443,TRUE,LHR,Europe,London,225 ms,539 kB/s
+141.147.61.116,8443,TRUE,FRA,Europe,Frankfurt,265 ms,265 kB/s
+144.24.20.92,8443,TRUE,LAX,North America,Los Angeles,246 ms,41 kB/s
+140.238.218.65,8443,TRUE,ZRH,Europe,Zurich,204 ms,40 kB/s
+132.226.163.224,8443,TRUE,GRU,South America,S?o Paulo,404 ms,27 kB/s
+204.216.216.148,8443,TRUE,MXP,Europe,Milan,274 ms,22 kB/s
+141.148.164.242,8443,TRUE,LAX,North America,Los Angeles,238 ms,0 kB/s
+140.238.173.181,8443,TRUE,ZRH,Europe,Zurich,342 ms,0 kB/s
+129.159.129.107,8443,TRUE,TLV,Middle East,Tel Aviv,381 ms,0 kB/s
