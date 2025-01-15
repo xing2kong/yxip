@@ -53,6 +53,7 @@ sg.cf.zhetengsha.eu.org:8443#SG
 us.cf.zhetengsha.eu.org:8443#US
 jp.cf.zhetengsha.eu.org:8443#JP
 hk.cf.zhetengsha.eu.org:2053#HK
-sg.cf.zhetengsha.eu.org:2053#SG
-us.cf.zhetengsha.eu.org:2053#US
-jp.cf.zhetengsha.eu.org:2053#JP
+sg.cf.zhetengsha.eu.org:2053#SG☆
+us.cf.zhetengsha.eu.org:2053#US☆
+jp.cf.zhetengsha.eu.org:2053#JP☆
+
