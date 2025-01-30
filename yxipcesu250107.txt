@@ -419,3 +419,36 @@ developers.cloudflare.com#CF线路
 [2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:2083#加拿大 Quebec 蒙特利尔😁
 [2606:4700:3036::ce:d6ea]:8443#加拿大 Quebec 蒙特利尔😁
 [2606:4700:3036:0:a36a:3160:b566:8741]:2053#加拿大 Quebec 蒙特利尔😁
+DOMAIN-KEYWORD,chatgpt👻
+DOMAIN-SUFFIX,ai.com👻
+DOMAIN-SUFFIX,openai.com👻
+DOMAIN,chat.openai.com.cdn.cloudflare.net👻
+DOMAIN,openaiapi-site.azureedge.net👻
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net👻
+DOMAIN,openaicomproductionae4b.blob.core.windows.net👻
+DOMAIN,production-openaicom-storage.azureedge.net👻
+DOMAIN,browser-intake-datadoghq.com👻
+DOMAIN,static.cloudflareinsights.com👻
+DOMAIN-SUFFIX,algolia.net👻
+DOMAIN-SUFFIX,api.statsig.com👻
+DOMAIN-SUFFIX,auth0.com👻
+DOMAIN-SUFFIX,chatgpt.com👻
+DOMAIN-SUFFIX,chatgpt.livekit.cloud👻
+DOMAIN-SUFFIX,client-api.arkoselabs.com👻
+DOMAIN-SUFFIX,events.statsigapi.net👻
+DOMAIN-SUFFIX,featuregates.org👻
+DOMAIN-SUFFIX,host.livekit.cloud👻
+DOMAIN-SUFFIX,identrust.com👻
+DOMAIN-SUFFIX,intercom.io👻
+DOMAIN-SUFFIX,intercomcdn.com👻
+DOMAIN-SUFFIX,launchdarkly.com👻
+DOMAIN-SUFFIX,oaistatic.com👻
+DOMAIN-SUFFIX,oaiusercontent.com👻
+DOMAIN-SUFFIX,observeit.net👻
+DOMAIN-SUFFIX,segment.io👻
+DOMAIN-SUFFIX,sentry.io👻
+DOMAIN-SUFFIX,stripe.com👻
+DOMAIN-SUFFIX,turn.livekit.cloud👻
+DOMAIN-KEYWORD,openai👻
+IP-CIDR,24.199.123.28/32👻
+IP-CIDR,64.23.132.171/32👻
