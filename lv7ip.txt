@@ -138,6 +138,11 @@ ct.090227.xyz#电信
 104.19.60.37#美国高速
 104.19.15.221#美国高速
 104.19.80.138#美国高速
+pages.dev#优选域名 1
+pages.cloudflare.com#优选域名 2
+workers.cloudflare.com#优选域名 3
+fbi.gov#优选域名 4
+www.wto.org#优选域名 5
 cf.090227.xyz#解锁A
 cf.090227.xyz#解锁B
 cf.090227.xyz#解锁C
