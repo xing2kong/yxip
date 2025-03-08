@@ -276,3 +276,8 @@ abuse.cloudflare.com#CF家域名pinginfoview
 geolocation.onetrust.com#CF家域名pinginfoview
 www.4chan.org#CF家域名pinginfoview
 partners.cloudflare.com#CF家域名pinginfoview
+104.19.21.188#优选a
+104.19.117.209#优选b
+104.19.106.149#优选c
+104.19.127.22#优选d
+104.19.29.107#优选e
