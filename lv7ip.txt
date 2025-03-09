@@ -12,23 +12,14 @@
 104.16.224.0:443#cf自优选
 104.17.32.0:443#cf自优选jc★★
 104.16.0.29:443#cf自优选
-64.110.104.30:443#cf自优选
-193.122.58.158:443#cf自优选
-130.61.169.24:443#cf自优选★
 104.16.0.29:443#cf反代优选 
-8.219.203.159:443#cf反代优选
-47.253.151.248:443#cf反代优选
 104.19.38.18#SG-30MB
 104.18.116.234#SG-30MB
 104.19.64.0#US-30MB
 104.19.128.0#US-30MB
 104.19.50.31#US-30MB
 132.145.94.80:443#KR ▲
-152.67.203.34:443#KR
 132.226.168.96:443#KR 
-132.145.116.185:443#JP 
-155.248.181.189:443#JP▲ 
-150.230.249.48:443#KR 
 www.visa.com.sg#CF - CDN优选公共大厂域名 
 www.visa.co.jp#CF - CDN优选公共大厂域名
 www.gov.se#CF - CDN优选公共大厂域名 
@@ -68,7 +59,6 @@ www.pcmag.com#CF - CDN优选公共大厂域名
 www.glassdoor.com#CF - CDN优选公共大厂域名 
 skk.moe#CF - CDN优选公共大厂域名 
 www.zsu.gov.ua#CF - CDN优选公共大厂域名 
-www.baipiao.eu.org#CF - CDN优选公共大厂域名 
 www.boba88slot.com#CF - CDN优选公共大厂域名
 104.16.0.0:443#CF不死 
 104.17.0.0:443#CF不死 
@@ -100,11 +90,8 @@ www.boba88slot.com#CF - CDN优选公共大厂域名
 91.149.239.62#US 17
 54.148.167.46#US 19
 154.31.157.12#US 20
-50.18.25.238#US 21
 64.181.227.69#US 23
-3.78.125.180#DE 1
 3.67.25.193#DE 2
-3.124.196.164#DE 3
 3.76.179.225#DE 8
 18.199.90.83#DE 9
 81.95.4.189#DE 11
@@ -112,14 +99,12 @@ www.boba88slot.com#CF - CDN优选公共大厂域名
 52.58.52.105#DE 14
 141.105.70.114#RUS 1
 34.253.234.62#IRL 1
-47.91.18.127#JP 1
 43.218.77.16#ID 1
 31.129.48.139#FI 1
 15.236.143.28#FR 1
 179.43.180.231#CH 1
 47.57.13.107#HK 4
 104.16.38.122#随机优先 1
-188.114.98.156#随机优先 2
 172.64.41.177#随机优先 3
 104.16.191.42#随机优先 4
 104.16.129.133#随机优先 6
@@ -142,7 +127,6 @@ pages.dev#优选域名 1
 pages.cloudflare.com#优选域名 2
 workers.cloudflare.com#优选域名 3
 fbi.gov#优选域名 4
-www.wto.org#优选域名 5
 cf.090227.xyz#解锁A
 cf.090227.xyz#解锁B
 cf.090227.xyz#解锁C
@@ -156,9 +140,7 @@ cf.090227.xyz#解锁J
 cf.090227.xyz#解锁K
 cf.090227.xyz#解锁L
 cf.090227.xyz#解锁M
-customer.l53.net#CF家域名pinginfoview
 www.fontawesome.com#CF家域名pinginfoview
-www.geolocation.com#CF家域名pinginfoview
 caribbean.visa.com#CF家域名pinginfoview
 isbgpsafeyet.com#CF家域名pinginfoview
 www.epicgames.com#CF家域名pinginfoview
@@ -170,7 +152,6 @@ www.cloudflare.tv#CF家域名pinginfoview
 staging.cloudflare.tv.cdn.cloudflare.net#CF家域名pinginfoview
 www.spaceship.com#CF家域名pinginfoview
 privacypass.cloudflare.com#CF家域名pinginfoview
-pages.dev#CF家域名pinginfoview
 gates.cloudflare.com#CF家域名pinginfoview
 classic.radar.cloudflare.com#CF家域名pinginfoview
 performance.radar.cloudflare.com#CF家域名pinginfoview
@@ -179,7 +160,6 @@ cf-imgs.hcaptcha.com#CF家域名pinginfoview
 sso.cloudflare.dev#CF家域名pinginfoview
 www.fortnite.com#CF家域名pinginfoview
 r2-calculator.cloudflare.com#CF家域名pinginfoview
-anycast.com#CF家域名pinginfoview
 hcaptcha-assets.ecosec.on.epicgames.com#CF家域名pinginfoview
 one.dash.cloudflare.com#CF家域名pinginfoview
 drand.cloudflare.com#CF家域名pinginfoview
@@ -208,7 +188,6 @@ ip.skk.moe#CF家域名pinginfoview
 icook.hk#CF家域名pinginfoview
 time.is#CF家域名pinginfoview
 ajax.cdnjs.com#CF家域名pinginfoview
-cdnjs.com#CF家域名pinginfoview
 ping.pe#CF家域名pinginfoview
 www.namecheap.com#CF家域名pinginfoview
 peering.cloudflare.com#CF家域名pinginfoview
@@ -248,7 +227,6 @@ users.nexusmods.com#CF家域名pinginfoview
 developers.cloudflare.com#CF家域名pinginfoview
 teams.cloudflare.com#CF家域名pinginfoview
 ae.visamiddleeast.com#CF家域名pinginfoview
-ns6.cloudflare.com#CF家域名pinginfoview
 www.nexusmods.com#CF家域名pinginfoview
 crypto.cloudflare.com#CF家域名pinginfoview
 community.cloudflare.com#CF家域名pinginfoview
@@ -281,9 +259,6 @@ partners.cloudflare.com#CF家域名pinginfoview
 104.19.106.149#优选c
 104.19.127.22#优选d
 104.19.29.107#优选e
-cdnjs.com#游戏uhe
-unpkg.com#游戏uhe
-fontawesome.com#游戏uhe
 img.fortawesome.com#游戏uhe
 kit.fontawesome.com#游戏uhe
 pro.fontawesome.com#游戏uhe
@@ -306,13 +281,9 @@ sentry.fivem.net#游戏uhe
 kibana-live.fivem.net#游戏uhe
 rl-cdn.psyonix.com#游戏uhe
 prod.escapefromtarkov.com#游戏uhe
-
 cf-cname.xingpingcn.top#多网站优选
-
 cf.090227.xyz#多网站优选
-
 time.is#多网站优选
-icook.hk#多网站优选
 icook.tw#多网站优选
 ip.sb#多网站优选
 japan.com#多网站优选
@@ -346,7 +317,6 @@ www.zsu.gov.ua#多网站优选
 fbi.gov#多网站优选
 linux.do#多网站优选
 bestcf.top#多网站优选
-cdn.2020111.xyz#多网站优选
 cfip.cfcdn.vip#多网站优选
 cf.0sm.com#多网站优选
 cf.090227.xyz#多网站优选
